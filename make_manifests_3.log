@@ -1,0 +1,2600 @@
+dev/tasks/generate-all
+/app/dev/tools/controllerbuilder /app
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+/app
+running apis/accesscontextmanager/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/alloydb/v1beta1/generate.sh
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/analytics/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/artifactregistry/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+running apis/asset/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+running apis/assuredworkloads/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/backupdr/v1alpha1/generate.sh
+Skipping apis/backupdr/v1beta1/generate.sh
+running apis/batch/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/bigquerybiglake/v1alpha1/generate.sh
+Skipping apis/bigquerybiglake/v1beta1/generate.sh
+running apis/bigquerydatatransfer/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+I0409 15:31:10.419337 1391713 generatetypescommand.go:163] "skipping scaffolding type, refs and identity files" resource="TransferConfig"
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/bigqueryreservation/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/bigtable/v1alpha1/generate.sh
+Skipping apis/bigtable/v1beta1/generate.sh
+running apis/billing/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/certificatemanager/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/certificatemanager/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/cloudbuild/v1beta1/generate.sh
+running apis/clouddeploy/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/clouddeploy/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/clouddms/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/cloudquota/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/composer/v1beta1/generate.sh
+running apis/compute/v1alpha1/generate.sh
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/compute/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/configdelivery/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/datacatalog/v1beta1/generate.sh
+running apis/dataflow/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/dataplex/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/datastream/v1alpha1/generate.sh
+Skipping apis/discoveryengine/v1alpha1/generate.sh
+Skipping apis/documentai/v1alpha1/generate.sh
+Skipping apis/documentai/v1beta1/generate.sh
+Skipping apis/edgecontainer/v1alpha1/generate.sh
+running apis/essentialcontacts/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/firestore/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/firestore/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/gkebackup/v1alpha1/generate.sh
+running apis/gkehub/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+New API file added /app/apis/gkehub/v1beta1/membershipfeaturespec_types.go
+Please EDIT it!
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/iam/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/iam/v1beta1/generate.sh
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/logging/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/managedkafka/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/managedkafka/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/monitoring/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/networkmanagement/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/networksecurity/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/networkservices/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/orgpolicy/v1alpha1/generate.sh
+Skipping apis/orgpolicy/v1beta1/generate.sh
+running apis/parametermanager/v1alpha1/generate.sh
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/privateca/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/pubsub/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+running apis/run/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/servicenetworking/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/serviceusage/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/speech/v1alpha1/generate.sh
+Skipping apis/speech/v1beta1/generate.sh
+running apis/sql/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+I0409 15:34:13.574292 1406487 generatetypescommand.go:163] "skipping scaffolding type, refs and identity files" resource="DatabaseInstance"
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+running apis/tags/v1alpha1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+running apis/tags/v1beta1/generate.sh
+HEAD is now at 731d7f2ab6 feat: add gkerecommender GkeInferenceQuickstart API v1
+/usr/bin/protoc
+Found protoc version libprotoc 3.21.12
+Using cached googleapis pb file at /app/.build/googleapis-731d7f2ab6e4e2ea15030c95039e2cb66174d4fb.pb
+SKIP_GENERATE_CRDS is set; skipping generation of CRDs
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Skipping apis/tpu/v1alpha1/generate.sh
+Skipping apis/vertexai/v1alpha1/generate.sh
+Skipping apis/vmwareengine/v1alpha1/generate.sh
+Skipping apis/vmwareengine/v1beta1/generate.sh
+Generating CRDs
+Writing output to pkg/gvks/supportedgvks/gvks_generated.go
+go: golang.org/x/tools@v0.43.0 requires go >= 1.25.0; switching to go1.25.9
+Generated docs/reports/crd_report.csv
+Generated docs/reports/crd_report.md
+++ git rev-parse --show-toplevel
++ REPO_ROOT=/app
++ cd /app
++ cat
+++ find dev/ci/presubmits -type f
+++ sort
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/capture-pprof
++ name=capture-pprof
++ cat
++ [[ capture-pprof == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ capture-pprof == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ capture-pprof == tests-e2e-* ]]
++ cat
++ [[ capture-pprof == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ capture-pprof == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ capture-pprof == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/fuzz-roundtrippers
++ name=fuzz-roundtrippers
++ cat
++ [[ fuzz-roundtrippers == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ fuzz-roundtrippers == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ fuzz-roundtrippers == tests-e2e-* ]]
++ cat
++ [[ fuzz-roundtrippers == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ fuzz-roundtrippers == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ fuzz-roundtrippers == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/golangci-lint
++ name=golangci-lint
++ cat
++ [[ golangci-lint == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ cat
++ continue
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/license-lint
++ name=license-lint
++ cat
++ [[ license-lint == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ license-lint == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ cat
++ continue
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/run-linters
++ name=run-linters
++ cat
++ [[ run-linters == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ run-linters == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ run-linters == tests-e2e-* ]]
++ cat
++ [[ run-linters == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ run-linters == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ run-linters == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/smoketest-with-kind
++ name=smoketest-with-kind
++ cat
++ [[ smoketest-with-kind == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ smoketest-with-kind == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ smoketest-with-kind == tests-e2e-* ]]
++ cat
++ [[ smoketest-with-kind == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ smoketest-with-kind == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ smoketest-with-kind == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/test-mockgcp
++ name=test-mockgcp
++ cat
++ [[ test-mockgcp == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ test-mockgcp == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ test-mockgcp == tests-e2e-* ]]
++ cat
++ [[ test-mockgcp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ test-mockgcp == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ cat
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/test-pause
++ name=test-pause
++ cat
++ [[ test-pause == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ test-pause == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ test-pause == tests-e2e-* ]]
++ cat
++ [[ test-pause == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ test-pause == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ test-pause == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-direct-iam
++ name=tests-e2e-direct-iam
++ cat
++ [[ tests-e2e-direct-iam == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-direct-iam == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-direct-iam == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-direct-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-direct-iam == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-direct-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures
++ name=tests-e2e-fixtures
++ cat
++ [[ tests-e2e-fixtures == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-accesscontextmanager
++ name=tests-e2e-fixtures-accesscontextmanager
++ cat
++ [[ tests-e2e-fixtures-accesscontextmanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-accesscontextmanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-accesscontextmanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-accesscontextmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-accesscontextmanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-accesscontextmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-aiplatform
++ name=tests-e2e-fixtures-aiplatform
++ cat
++ [[ tests-e2e-fixtures-aiplatform == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-aiplatform == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-aiplatform == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-aiplatform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-aiplatform == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-aiplatform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-alloydb
++ name=tests-e2e-fixtures-alloydb
++ cat
++ [[ tests-e2e-fixtures-alloydb == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-alloydb == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-alloydb == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-alloydb == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-alloydb == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-alloydb == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-analytics
++ name=tests-e2e-fixtures-analytics
++ cat
++ [[ tests-e2e-fixtures-analytics == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-analytics == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-analytics == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-analytics == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-analytics == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-analytics == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-apigateway
++ name=tests-e2e-fixtures-apigateway
++ cat
++ [[ tests-e2e-fixtures-apigateway == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apigateway == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apigateway == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-apigateway == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-apigateway == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-apigateway == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-apigee
++ name=tests-e2e-fixtures-apigee
++ cat
++ [[ tests-e2e-fixtures-apigee == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apigee == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apigee == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-apigee == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-apigee == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-apigee == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-apikeys
++ name=tests-e2e-fixtures-apikeys
++ cat
++ [[ tests-e2e-fixtures-apikeys == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apikeys == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apikeys == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-apikeys == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-apikeys == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-apikeys == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-appengine
++ name=tests-e2e-fixtures-appengine
++ cat
++ [[ tests-e2e-fixtures-appengine == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-appengine == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-appengine == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-appengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-appengine == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-appengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-apphub
++ name=tests-e2e-fixtures-apphub
++ cat
++ [[ tests-e2e-fixtures-apphub == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apphub == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-apphub == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-apphub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-apphub == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-apphub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-artifactregistry
++ name=tests-e2e-fixtures-artifactregistry
++ cat
++ [[ tests-e2e-fixtures-artifactregistry == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-artifactregistry == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-artifactregistry == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-artifactregistry == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-artifactregistry == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-artifactregistry == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-asset
++ name=tests-e2e-fixtures-asset
++ cat
++ [[ tests-e2e-fixtures-asset == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-asset == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-asset == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-asset == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-asset == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-asset == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-assuredworkloads
++ name=tests-e2e-fixtures-assuredworkloads
++ cat
++ [[ tests-e2e-fixtures-assuredworkloads == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-assuredworkloads == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-assuredworkloads == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-assuredworkloads == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-assuredworkloads == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-assuredworkloads == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-backupdr
++ name=tests-e2e-fixtures-backupdr
++ cat
++ [[ tests-e2e-fixtures-backupdr == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-backupdr == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-backupdr == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-backupdr == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-backupdr == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-backupdr == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-batch
++ name=tests-e2e-fixtures-batch
++ cat
++ [[ tests-e2e-fixtures-batch == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-batch == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-batch == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-batch == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-batch == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-batch == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-beyondcorp
++ name=tests-e2e-fixtures-beyondcorp
++ cat
++ [[ tests-e2e-fixtures-beyondcorp == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-beyondcorp == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-beyondcorp == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-beyondcorp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-beyondcorp == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-beyondcorp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigquery
++ name=tests-e2e-fixtures-bigquery
++ cat
++ [[ tests-e2e-fixtures-bigquery == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquery == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquery == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigquery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigquery == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigquery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigqueryanalyticshub
++ name=tests-e2e-fixtures-bigqueryanalyticshub
++ cat
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigqueryanalyticshub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigquerybiglake
++ name=tests-e2e-fixtures-bigquerybiglake
++ cat
++ [[ tests-e2e-fixtures-bigquerybiglake == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerybiglake == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerybiglake == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigquerybiglake == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigquerybiglake == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigquerybiglake == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigqueryconnection
++ name=tests-e2e-fixtures-bigqueryconnection
++ cat
++ [[ tests-e2e-fixtures-bigqueryconnection == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryconnection == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryconnection == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigqueryconnection == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigqueryconnection == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigqueryconnection == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigquerydatapolicy
++ name=tests-e2e-fixtures-bigquerydatapolicy
++ cat
++ [[ tests-e2e-fixtures-bigquerydatapolicy == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerydatapolicy == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerydatapolicy == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigquerydatapolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigquerydatapolicy == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigquerydatapolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigquerydatatransfer
++ name=tests-e2e-fixtures-bigquerydatatransfer
++ cat
++ [[ tests-e2e-fixtures-bigquerydatatransfer == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerydatatransfer == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigquerydatatransfer == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigquerydatatransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigquerydatatransfer == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigquerydatatransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigqueryreservation
++ name=tests-e2e-fixtures-bigqueryreservation
++ cat
++ [[ tests-e2e-fixtures-bigqueryreservation == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryreservation == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigqueryreservation == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigqueryreservation == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigqueryreservation == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigqueryreservation == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-bigtable
++ name=tests-e2e-fixtures-bigtable
++ cat
++ [[ tests-e2e-fixtures-bigtable == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigtable == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-bigtable == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-bigtable == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-bigtable == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-bigtable == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-billing
++ name=tests-e2e-fixtures-billing
++ cat
++ [[ tests-e2e-fixtures-billing == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-billing == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-billing == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-billing == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-billing == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-billing == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-billingbudgets
++ name=tests-e2e-fixtures-billingbudgets
++ cat
++ [[ tests-e2e-fixtures-billingbudgets == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-billingbudgets == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-billingbudgets == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-billingbudgets == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-billingbudgets == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-billingbudgets == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-binaryauthorization
++ name=tests-e2e-fixtures-binaryauthorization
++ cat
++ [[ tests-e2e-fixtures-binaryauthorization == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-binaryauthorization == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-binaryauthorization == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-binaryauthorization == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-binaryauthorization == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-binaryauthorization == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-certificatemanager
++ name=tests-e2e-fixtures-certificatemanager
++ cat
++ [[ tests-e2e-fixtures-certificatemanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-certificatemanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-certificatemanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-certificatemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-certificatemanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-certificatemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudasset
++ name=tests-e2e-fixtures-cloudasset
++ cat
++ [[ tests-e2e-fixtures-cloudasset == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudasset == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudasset == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudasset == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudasset == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudasset == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudbuild
++ name=tests-e2e-fixtures-cloudbuild
++ cat
++ [[ tests-e2e-fixtures-cloudbuild == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudbuild == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudbuild == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudbuild == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudbuild == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudbuild == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-clouddeploy
++ name=tests-e2e-fixtures-clouddeploy
++ cat
++ [[ tests-e2e-fixtures-clouddeploy == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-clouddeploy == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-clouddeploy == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-clouddeploy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-clouddeploy == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-clouddeploy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-clouddms
++ name=tests-e2e-fixtures-clouddms
++ cat
++ [[ tests-e2e-fixtures-clouddms == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-clouddms == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-clouddms == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-clouddms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-clouddms == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-clouddms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudfunctions
++ name=tests-e2e-fixtures-cloudfunctions
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudfunctions == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudfunctions == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudfunctions == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudfunctions2
++ name=tests-e2e-fixtures-cloudfunctions2
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions2 == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudfunctions2 == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudfunctions2 == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions2 == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudfunctions2 == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudfunctions2 == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudidentity
++ name=tests-e2e-fixtures-cloudidentity
++ cat
++ [[ tests-e2e-fixtures-cloudidentity == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudidentity == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudidentity == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudidentity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudidentity == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudidentity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudids
++ name=tests-e2e-fixtures-cloudids
++ cat
++ [[ tests-e2e-fixtures-cloudids == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudids == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudids == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudids == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudids == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudids == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudiot
++ name=tests-e2e-fixtures-cloudiot
++ cat
++ [[ tests-e2e-fixtures-cloudiot == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudiot == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudiot == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudiot == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudiot == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudiot == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudquota
++ name=tests-e2e-fixtures-cloudquota
++ cat
++ [[ tests-e2e-fixtures-cloudquota == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudquota == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudquota == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudquota == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudquota == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudquota == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudscheduler
++ name=tests-e2e-fixtures-cloudscheduler
++ cat
++ [[ tests-e2e-fixtures-cloudscheduler == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudscheduler == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudscheduler == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudscheduler == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudscheduler == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudscheduler == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-cloudtasks
++ name=tests-e2e-fixtures-cloudtasks
++ cat
++ [[ tests-e2e-fixtures-cloudtasks == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudtasks == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-cloudtasks == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-cloudtasks == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-cloudtasks == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-cloudtasks == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-colab
++ name=tests-e2e-fixtures-colab
++ cat
++ [[ tests-e2e-fixtures-colab == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-colab == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-colab == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-colab == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-colab == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-colab == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-composer
++ name=tests-e2e-fixtures-composer
++ cat
++ [[ tests-e2e-fixtures-composer == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-composer == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-composer == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-composer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-composer == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-composer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-compute
++ name=tests-e2e-fixtures-compute
++ cat
++ [[ tests-e2e-fixtures-compute == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-compute == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-compute == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-compute == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-compute == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-compute == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-configcontroller
++ name=tests-e2e-fixtures-configcontroller
++ cat
++ [[ tests-e2e-fixtures-configcontroller == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-configcontroller == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-configcontroller == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-configcontroller == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-configcontroller == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-configcontroller == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-configdelivery
++ name=tests-e2e-fixtures-configdelivery
++ cat
++ [[ tests-e2e-fixtures-configdelivery == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-configdelivery == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-configdelivery == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-configdelivery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-configdelivery == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-configdelivery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-container
++ name=tests-e2e-fixtures-container
++ cat
++ [[ tests-e2e-fixtures-container == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-container == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-container == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-container == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-container == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-container == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-containeranalysis
++ name=tests-e2e-fixtures-containeranalysis
++ cat
++ [[ tests-e2e-fixtures-containeranalysis == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-containeranalysis == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-containeranalysis == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-containeranalysis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-containeranalysis == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-containeranalysis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-containerattached
++ name=tests-e2e-fixtures-containerattached
++ cat
++ [[ tests-e2e-fixtures-containerattached == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-containerattached == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-containerattached == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-containerattached == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-containerattached == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-containerattached == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-datacatalog
++ name=tests-e2e-fixtures-datacatalog
++ cat
++ [[ tests-e2e-fixtures-datacatalog == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datacatalog == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datacatalog == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-datacatalog == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-datacatalog == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-datacatalog == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dataflow
++ name=tests-e2e-fixtures-dataflow
++ cat
++ [[ tests-e2e-fixtures-dataflow == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataflow == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataflow == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dataflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dataflow == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dataflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dataform
++ name=tests-e2e-fixtures-dataform
++ cat
++ [[ tests-e2e-fixtures-dataform == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataform == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataform == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dataform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dataform == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dataform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-datafusion
++ name=tests-e2e-fixtures-datafusion
++ cat
++ [[ tests-e2e-fixtures-datafusion == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datafusion == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datafusion == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-datafusion == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-datafusion == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-datafusion == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dataplex
++ name=tests-e2e-fixtures-dataplex
++ cat
++ [[ tests-e2e-fixtures-dataplex == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataplex == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataplex == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dataplex == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dataplex == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dataplex == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dataproc
++ name=tests-e2e-fixtures-dataproc
++ cat
++ [[ tests-e2e-fixtures-dataproc == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataproc == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dataproc == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dataproc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dataproc == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dataproc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-datastore
++ name=tests-e2e-fixtures-datastore
++ cat
++ [[ tests-e2e-fixtures-datastore == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datastore == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datastore == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-datastore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-datastore == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-datastore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-datastream
++ name=tests-e2e-fixtures-datastream
++ cat
++ [[ tests-e2e-fixtures-datastream == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datastream == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-datastream == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-datastream == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-datastream == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-datastream == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-deploymentmanager
++ name=tests-e2e-fixtures-deploymentmanager
++ cat
++ [[ tests-e2e-fixtures-deploymentmanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-deploymentmanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-deploymentmanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-deploymentmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-deploymentmanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-deploymentmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dialogflow
++ name=tests-e2e-fixtures-dialogflow
++ cat
++ [[ tests-e2e-fixtures-dialogflow == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dialogflow == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dialogflow == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dialogflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dialogflow == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dialogflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dialogflowcx
++ name=tests-e2e-fixtures-dialogflowcx
++ cat
++ [[ tests-e2e-fixtures-dialogflowcx == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dialogflowcx == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dialogflowcx == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dialogflowcx == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dialogflowcx == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dialogflowcx == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-discoveryengine
++ name=tests-e2e-fixtures-discoveryengine
++ cat
++ [[ tests-e2e-fixtures-discoveryengine == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-discoveryengine == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-discoveryengine == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-discoveryengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-discoveryengine == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-discoveryengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dlp
++ name=tests-e2e-fixtures-dlp
++ cat
++ [[ tests-e2e-fixtures-dlp == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dlp == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dlp == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dlp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dlp == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dlp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-dns
++ name=tests-e2e-fixtures-dns
++ cat
++ [[ tests-e2e-fixtures-dns == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dns == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-dns == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-dns == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-dns == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-dns == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-documentai
++ name=tests-e2e-fixtures-documentai
++ cat
++ [[ tests-e2e-fixtures-documentai == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-documentai == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-documentai == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-documentai == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-documentai == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-documentai == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-edgecontainer
++ name=tests-e2e-fixtures-edgecontainer
++ cat
++ [[ tests-e2e-fixtures-edgecontainer == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-edgecontainer == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-edgecontainer == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-edgecontainer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-edgecontainer == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-edgecontainer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-edgenetwork
++ name=tests-e2e-fixtures-edgenetwork
++ cat
++ [[ tests-e2e-fixtures-edgenetwork == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-edgenetwork == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-edgenetwork == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-edgenetwork == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-edgenetwork == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-edgenetwork == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-essentialcontacts
++ name=tests-e2e-fixtures-essentialcontacts
++ cat
++ [[ tests-e2e-fixtures-essentialcontacts == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-essentialcontacts == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-essentialcontacts == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-essentialcontacts == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-essentialcontacts == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-essentialcontacts == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-eventarc
++ name=tests-e2e-fixtures-eventarc
++ cat
++ [[ tests-e2e-fixtures-eventarc == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-eventarc == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-eventarc == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-eventarc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-eventarc == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-eventarc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-filestore
++ name=tests-e2e-fixtures-filestore
++ cat
++ [[ tests-e2e-fixtures-filestore == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-filestore == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-filestore == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-filestore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-filestore == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-filestore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-firebase
++ name=tests-e2e-fixtures-firebase
++ cat
++ [[ tests-e2e-fixtures-firebase == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebase == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebase == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-firebase == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-firebase == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-firebase == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-firebasedatabase
++ name=tests-e2e-fixtures-firebasedatabase
++ cat
++ [[ tests-e2e-fixtures-firebasedatabase == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasedatabase == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasedatabase == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-firebasedatabase == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-firebasedatabase == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-firebasedatabase == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-firebasehosting
++ name=tests-e2e-fixtures-firebasehosting
++ cat
++ [[ tests-e2e-fixtures-firebasehosting == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasehosting == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasehosting == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-firebasehosting == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-firebasehosting == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-firebasehosting == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-firebasestorage
++ name=tests-e2e-fixtures-firebasestorage
++ cat
++ [[ tests-e2e-fixtures-firebasestorage == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasestorage == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firebasestorage == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-firebasestorage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-firebasestorage == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-firebasestorage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-firestore
++ name=tests-e2e-fixtures-firestore
++ cat
++ [[ tests-e2e-fixtures-firestore == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firestore == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-firestore == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-firestore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-firestore == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-firestore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-gkebackup
++ name=tests-e2e-fixtures-gkebackup
++ cat
++ [[ tests-e2e-fixtures-gkebackup == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-gkebackup == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-gkebackup == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-gkebackup == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-gkebackup == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-gkebackup == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-gkehub
++ name=tests-e2e-fixtures-gkehub
++ cat
++ [[ tests-e2e-fixtures-gkehub == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-gkehub == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-gkehub == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-gkehub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-gkehub == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-gkehub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-healthcare
++ name=tests-e2e-fixtures-healthcare
++ cat
++ [[ tests-e2e-fixtures-healthcare == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-healthcare == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-healthcare == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-healthcare == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-healthcare == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-healthcare == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-iam
++ name=tests-e2e-fixtures-iam
++ cat
++ [[ tests-e2e-fixtures-iam == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-iam == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-iam == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-iam == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-iap
++ name=tests-e2e-fixtures-iap
++ cat
++ [[ tests-e2e-fixtures-iap == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-iap == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-iap == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-iap == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-iap == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-iap == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-identityplatform
++ name=tests-e2e-fixtures-identityplatform
++ cat
++ [[ tests-e2e-fixtures-identityplatform == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-identityplatform == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-identityplatform == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-identityplatform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-identityplatform == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-identityplatform == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-kms
++ name=tests-e2e-fixtures-kms
++ cat
++ [[ tests-e2e-fixtures-kms == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-kms == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-kms == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-kms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-kms == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-kms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-logging
++ name=tests-e2e-fixtures-logging
++ cat
++ [[ tests-e2e-fixtures-logging == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-logging == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-logging == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-logging == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-logging == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-logging == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-managedkafka
++ name=tests-e2e-fixtures-managedkafka
++ cat
++ [[ tests-e2e-fixtures-managedkafka == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-managedkafka == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-managedkafka == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-managedkafka == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-managedkafka == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-managedkafka == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-memcache
++ name=tests-e2e-fixtures-memcache
++ cat
++ [[ tests-e2e-fixtures-memcache == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-memcache == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-memcache == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-memcache == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-memcache == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-memcache == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-memorystore
++ name=tests-e2e-fixtures-memorystore
++ cat
++ [[ tests-e2e-fixtures-memorystore == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-memorystore == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-memorystore == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-memorystore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-memorystore == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-memorystore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-metastore
++ name=tests-e2e-fixtures-metastore
++ cat
++ [[ tests-e2e-fixtures-metastore == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-metastore == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-metastore == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-metastore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-metastore == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-metastore == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-mlengine
++ name=tests-e2e-fixtures-mlengine
++ cat
++ [[ tests-e2e-fixtures-mlengine == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-mlengine == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-mlengine == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-mlengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-mlengine == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-mlengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-monitoring
++ name=tests-e2e-fixtures-monitoring
++ cat
++ [[ tests-e2e-fixtures-monitoring == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-monitoring == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-monitoring == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-monitoring == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-monitoring == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-monitoring == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-netapp
++ name=tests-e2e-fixtures-netapp
++ cat
++ [[ tests-e2e-fixtures-netapp == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-netapp == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-netapp == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-netapp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-netapp == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-netapp == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-networkconnectivity
++ name=tests-e2e-fixtures-networkconnectivity
++ cat
++ [[ tests-e2e-fixtures-networkconnectivity == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkconnectivity == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkconnectivity == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-networkconnectivity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-networkconnectivity == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-networkconnectivity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-networkmanagement
++ name=tests-e2e-fixtures-networkmanagement
++ cat
++ [[ tests-e2e-fixtures-networkmanagement == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkmanagement == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkmanagement == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-networkmanagement == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-networkmanagement == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-networkmanagement == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-networksecurity
++ name=tests-e2e-fixtures-networksecurity
++ cat
++ [[ tests-e2e-fixtures-networksecurity == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networksecurity == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networksecurity == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-networksecurity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-networksecurity == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-networksecurity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-networkservices
++ name=tests-e2e-fixtures-networkservices
++ cat
++ [[ tests-e2e-fixtures-networkservices == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkservices == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-networkservices == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-networkservices == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-networkservices == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-networkservices == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-notebooks
++ name=tests-e2e-fixtures-notebooks
++ cat
++ [[ tests-e2e-fixtures-notebooks == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-notebooks == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-notebooks == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-notebooks == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-notebooks == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-notebooks == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-orgpolicy
++ name=tests-e2e-fixtures-orgpolicy
++ cat
++ [[ tests-e2e-fixtures-orgpolicy == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-orgpolicy == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-orgpolicy == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-orgpolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-orgpolicy == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-orgpolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-osconfig
++ name=tests-e2e-fixtures-osconfig
++ cat
++ [[ tests-e2e-fixtures-osconfig == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-osconfig == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-osconfig == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-osconfig == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-osconfig == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-osconfig == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-oslogin
++ name=tests-e2e-fixtures-oslogin
++ cat
++ [[ tests-e2e-fixtures-oslogin == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-oslogin == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-oslogin == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-oslogin == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-oslogin == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-oslogin == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-parametermanager
++ name=tests-e2e-fixtures-parametermanager
++ cat
++ [[ tests-e2e-fixtures-parametermanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-parametermanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-parametermanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-parametermanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-parametermanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-parametermanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-privateca
++ name=tests-e2e-fixtures-privateca
++ cat
++ [[ tests-e2e-fixtures-privateca == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-privateca == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-privateca == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-privateca == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-privateca == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-privateca == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-privilegedaccessmanager
++ name=tests-e2e-fixtures-privilegedaccessmanager
++ cat
++ [[ tests-e2e-fixtures-privilegedaccessmanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-privilegedaccessmanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-privilegedaccessmanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-privilegedaccessmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-privilegedaccessmanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-privilegedaccessmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-pubsub
++ name=tests-e2e-fixtures-pubsub
++ cat
++ [[ tests-e2e-fixtures-pubsub == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-pubsub == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-pubsub == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-pubsub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-pubsub == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-pubsub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-pubsublite
++ name=tests-e2e-fixtures-pubsublite
++ cat
++ [[ tests-e2e-fixtures-pubsublite == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-pubsublite == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-pubsublite == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-pubsublite == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-pubsublite == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-pubsublite == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-recaptchaenterprise
++ name=tests-e2e-fixtures-recaptchaenterprise
++ cat
++ [[ tests-e2e-fixtures-recaptchaenterprise == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-recaptchaenterprise == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-recaptchaenterprise == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-recaptchaenterprise == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-recaptchaenterprise == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-recaptchaenterprise == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-redis
++ name=tests-e2e-fixtures-redis
++ cat
++ [[ tests-e2e-fixtures-redis == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-redis == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-redis == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-redis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-redis == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-redis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-resourcemanager
++ name=tests-e2e-fixtures-resourcemanager
++ cat
++ [[ tests-e2e-fixtures-resourcemanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-resourcemanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-resourcemanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-resourcemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-resourcemanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-resourcemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-run
++ name=tests-e2e-fixtures-run
++ cat
++ [[ tests-e2e-fixtures-run == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-run == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-run == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-run == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-run == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-run == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-secretmanager
++ name=tests-e2e-fixtures-secretmanager
++ cat
++ [[ tests-e2e-fixtures-secretmanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-secretmanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-secretmanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-secretmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-secretmanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-secretmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-securesourcemanager
++ name=tests-e2e-fixtures-securesourcemanager
++ cat
++ [[ tests-e2e-fixtures-securesourcemanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-securesourcemanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-securesourcemanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-securesourcemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-securesourcemanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-securesourcemanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-securitycenter
++ name=tests-e2e-fixtures-securitycenter
++ cat
++ [[ tests-e2e-fixtures-securitycenter == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-securitycenter == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-securitycenter == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-securitycenter == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-securitycenter == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-securitycenter == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-servicedirectory
++ name=tests-e2e-fixtures-servicedirectory
++ cat
++ [[ tests-e2e-fixtures-servicedirectory == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-servicedirectory == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-servicedirectory == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-servicedirectory == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-servicedirectory == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-servicedirectory == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-servicenetworking
++ name=tests-e2e-fixtures-servicenetworking
++ cat
++ [[ tests-e2e-fixtures-servicenetworking == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-servicenetworking == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-servicenetworking == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-servicenetworking == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-servicenetworking == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-servicenetworking == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-serviceusage
++ name=tests-e2e-fixtures-serviceusage
++ cat
++ [[ tests-e2e-fixtures-serviceusage == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-serviceusage == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-serviceusage == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-serviceusage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-serviceusage == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-serviceusage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-sourcerepo
++ name=tests-e2e-fixtures-sourcerepo
++ cat
++ [[ tests-e2e-fixtures-sourcerepo == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-sourcerepo == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-sourcerepo == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-sourcerepo == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-sourcerepo == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-sourcerepo == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-spanner
++ name=tests-e2e-fixtures-spanner
++ cat
++ [[ tests-e2e-fixtures-spanner == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-spanner == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-spanner == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-spanner == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-spanner == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-spanner == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-speech
++ name=tests-e2e-fixtures-speech
++ cat
++ [[ tests-e2e-fixtures-speech == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-speech == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-speech == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-speech == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-speech == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-speech == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-sql
++ name=tests-e2e-fixtures-sql
++ cat
++ [[ tests-e2e-fixtures-sql == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-sql == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-sql == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-sql == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-sql == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-sql == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-storage
++ name=tests-e2e-fixtures-storage
++ cat
++ [[ tests-e2e-fixtures-storage == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-storage == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-storage == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-storage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-storage == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-storage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-storagetransfer
++ name=tests-e2e-fixtures-storagetransfer
++ cat
++ [[ tests-e2e-fixtures-storagetransfer == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-storagetransfer == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-storagetransfer == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-storagetransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-storagetransfer == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-storagetransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-tags
++ name=tests-e2e-fixtures-tags
++ cat
++ [[ tests-e2e-fixtures-tags == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-tags == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-tags == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-tags == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-tags == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-tags == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-tpu
++ name=tests-e2e-fixtures-tpu
++ cat
++ [[ tests-e2e-fixtures-tpu == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-tpu == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-tpu == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-tpu == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-tpu == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-tpu == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-vertexai
++ name=tests-e2e-fixtures-vertexai
++ cat
++ [[ tests-e2e-fixtures-vertexai == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vertexai == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vertexai == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-vertexai == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-vertexai == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-vertexai == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-vmwareengine
++ name=tests-e2e-fixtures-vmwareengine
++ cat
++ [[ tests-e2e-fixtures-vmwareengine == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vmwareengine == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vmwareengine == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-vmwareengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-vmwareengine == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-vmwareengine == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-vpcaccess
++ name=tests-e2e-fixtures-vpcaccess
++ cat
++ [[ tests-e2e-fixtures-vpcaccess == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vpcaccess == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-vpcaccess == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-vpcaccess == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-vpcaccess == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-vpcaccess == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-workflowexecutions
++ name=tests-e2e-fixtures-workflowexecutions
++ cat
++ [[ tests-e2e-fixtures-workflowexecutions == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workflowexecutions == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workflowexecutions == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-workflowexecutions == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-workflowexecutions == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-workflowexecutions == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-workflows
++ name=tests-e2e-fixtures-workflows
++ cat
++ [[ tests-e2e-fixtures-workflows == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workflows == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workflows == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-workflows == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-workflows == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-workflows == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-fixtures-workstations
++ name=tests-e2e-fixtures-workstations
++ cat
++ [[ tests-e2e-fixtures-workstations == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workstations == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-fixtures-workstations == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-fixtures-workstations == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-fixtures-workstations == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-fixtures-workstations == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-alloydb
++ name=tests-e2e-samples-alloydb
++ cat
++ [[ tests-e2e-samples-alloydb == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-alloydb == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-alloydb == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-alloydb == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-alloydb == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-alloydb == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-apigateway
++ name=tests-e2e-samples-apigateway
++ cat
++ [[ tests-e2e-samples-apigateway == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-apigateway == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-apigateway == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-apigateway == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-apigateway == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-apigateway == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-apigee
++ name=tests-e2e-samples-apigee
++ cat
++ [[ tests-e2e-samples-apigee == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-apigee == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-apigee == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-apigee == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-apigee == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-apigee == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-bigquery
++ name=tests-e2e-samples-bigquery
++ cat
++ [[ tests-e2e-samples-bigquery == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquery == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquery == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-bigquery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-bigquery == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-bigquery == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-bigqueryconnection
++ name=tests-e2e-samples-bigqueryconnection
++ cat
++ [[ tests-e2e-samples-bigqueryconnection == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigqueryconnection == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigqueryconnection == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-bigqueryconnection == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-bigqueryconnection == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-bigqueryconnection == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-bigquerydatapolicy
++ name=tests-e2e-samples-bigquerydatapolicy
++ cat
++ [[ tests-e2e-samples-bigquerydatapolicy == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquerydatapolicy == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquerydatapolicy == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-bigquerydatapolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-bigquerydatapolicy == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-bigquerydatapolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-bigquerydatatransfer
++ name=tests-e2e-samples-bigquerydatatransfer
++ cat
++ [[ tests-e2e-samples-bigquerydatatransfer == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquerydatatransfer == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-bigquerydatatransfer == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-bigquerydatatransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-bigquerydatatransfer == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-bigquerydatatransfer == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-cloudbuild
++ name=tests-e2e-samples-cloudbuild
++ cat
++ [[ tests-e2e-samples-cloudbuild == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-cloudbuild == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-cloudbuild == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-cloudbuild == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-cloudbuild == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-cloudbuild == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-cloudidentity
++ name=tests-e2e-samples-cloudidentity
++ cat
++ [[ tests-e2e-samples-cloudidentity == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-cloudidentity == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-cloudidentity == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-cloudidentity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-cloudidentity == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-cloudidentity == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-compute
++ name=tests-e2e-samples-compute
++ cat
++ [[ tests-e2e-samples-compute == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-compute == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-compute == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-compute == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-compute == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-compute == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-dataflow
++ name=tests-e2e-samples-dataflow
++ cat
++ [[ tests-e2e-samples-dataflow == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-dataflow == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-dataflow == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-dataflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-dataflow == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-dataflow == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-dataproc
++ name=tests-e2e-samples-dataproc
++ cat
++ [[ tests-e2e-samples-dataproc == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-dataproc == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-dataproc == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-dataproc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-dataproc == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-dataproc == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-gkehub
++ name=tests-e2e-samples-gkehub
++ cat
++ [[ tests-e2e-samples-gkehub == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-gkehub == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-gkehub == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-gkehub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-gkehub == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-gkehub == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-iam
++ name=tests-e2e-samples-iam
++ cat
++ [[ tests-e2e-samples-iam == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-iam == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-iam == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-iam == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-iam == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-kms
++ name=tests-e2e-samples-kms
++ cat
++ [[ tests-e2e-samples-kms == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-kms == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-kms == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-kms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-kms == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-kms == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-orgpolicy
++ name=tests-e2e-samples-orgpolicy
++ cat
++ [[ tests-e2e-samples-orgpolicy == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-orgpolicy == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-orgpolicy == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-orgpolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-orgpolicy == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-orgpolicy == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-redis
++ name=tests-e2e-samples-redis
++ cat
++ [[ tests-e2e-samples-redis == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-redis == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-redis == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-redis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-redis == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-redis == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-secretmanager
++ name=tests-e2e-samples-secretmanager
++ cat
++ [[ tests-e2e-samples-secretmanager == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-secretmanager == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-secretmanager == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-secretmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-secretmanager == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-secretmanager == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-spanner
++ name=tests-e2e-samples-spanner
++ cat
++ [[ tests-e2e-samples-spanner == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-spanner == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-spanner == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-spanner == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-spanner == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-spanner == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-sql
++ name=tests-e2e-samples-sql
++ cat
++ [[ tests-e2e-samples-sql == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-sql == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-sql == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-sql == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-sql == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-sql == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-storage
++ name=tests-e2e-samples-storage
++ cat
++ [[ tests-e2e-samples-storage == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-storage == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-storage == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-storage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-storage == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-storage == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-unclassified
++ name=tests-e2e-samples-unclassified
++ cat
++ [[ tests-e2e-samples-unclassified == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-unclassified == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-unclassified == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-unclassified == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-unclassified == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-unclassified == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-e2e-samples-workstations
++ name=tests-e2e-samples-workstations
++ cat
++ [[ tests-e2e-samples-workstations == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-e2e-samples-workstations == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-e2e-samples-workstations == tests-e2e-* ]]
++ cat
++ cat
++ [[ tests-e2e-samples-workstations == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-e2e-samples-workstations == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-e2e-samples-workstations == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-gcptracker
++ name=tests-gcptracker
++ cat
++ [[ tests-gcptracker == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-gcptracker == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-gcptracker == tests-e2e-* ]]
++ cat
++ [[ tests-gcptracker == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-gcptracker == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-gcptracker == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-scenarios-acquisition
++ name=tests-scenarios-acquisition
++ cat
++ [[ tests-scenarios-acquisition == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-scenarios-acquisition == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-scenarios-acquisition == tests-e2e-* ]]
++ cat
++ [[ tests-scenarios-acquisition == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-scenarios-acquisition == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-scenarios-acquisition == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-scenarios-gkehubfeaturemembership
++ name=tests-scenarios-gkehubfeaturemembership
++ cat
++ [[ tests-scenarios-gkehubfeaturemembership == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-scenarios-gkehubfeaturemembership == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-scenarios-gkehubfeaturemembership == tests-e2e-* ]]
++ cat
++ [[ tests-scenarios-gkehubfeaturemembership == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-scenarios-gkehubfeaturemembership == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-scenarios-gkehubfeaturemembership == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-scenarios-powertool
++ name=tests-scenarios-powertool
++ cat
++ [[ tests-scenarios-powertool == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-scenarios-powertool == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-scenarios-powertool == tests-e2e-* ]]
++ cat
++ [[ tests-scenarios-powertool == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-scenarios-powertool == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-scenarios-powertool == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/tests-scenarios-unclassified
++ name=tests-scenarios-unclassified
++ cat
++ [[ tests-scenarios-unclassified == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ tests-scenarios-unclassified == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ tests-scenarios-unclassified == tests-e2e-* ]]
++ cat
++ [[ tests-scenarios-unclassified == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ tests-scenarios-unclassified == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ tests-scenarios-unclassified == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/unit-tests
++ name=unit-tests
++ cat
++ [[ unit-tests == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ unit-tests == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ unit-tests == tests-e2e-* ]]
++ cat
++ [[ unit-tests == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ cat
++ [[ unit-tests == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ unit-tests == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ cat
++ for f in $(find dev/ci/presubmits -type f | sort)
+++ basename dev/ci/presubmits/validate-generated-files
++ name=validate-generated-files
++ cat
++ [[ validate-generated-files == \g\o\l\a\n\g\c\i\-\l\i\n\t ]]
++ [[ validate-generated-files == \l\i\c\e\n\s\e\-\l\i\n\t ]]
++ [[ validate-generated-files == tests-e2e-* ]]
++ cat
++ [[ validate-generated-files == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ [[ validate-generated-files == \t\e\s\t\-\m\o\c\k\g\c\p ]]
++ [[ validate-generated-files == \u\n\i\t\-\t\e\s\t\s ]]
++ cat
++ cat
+go generate ./pkg/apis/...
+make: *** [Makefile:157: generate] Terminated

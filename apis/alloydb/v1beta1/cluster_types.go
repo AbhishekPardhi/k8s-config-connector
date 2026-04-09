@@ -146,6 +146,10 @@ type AlloyDBClusterSpec struct {
 	// +kcc:proto:field=google.cloud.alloydb.v1beta.Cluster.maintenance_update_policy
 	MaintenanceUpdatePolicy *MaintenanceUpdatePolicy `json:"maintenanceUpdatePolicy,omitempty"`
 
+	// Optional. Configuration related to the Dataplex.
+	// +kcc:proto:field=google.cloud.alloydb.v1beta.Cluster.dataplex_config
+	DataplexConfig *Cluster_DataplexConfig `json:"dataplexConfig,omitempty"`
+
 	/* NOTYET
 	// Optional. Configuration parameters related to the Gemini in Databases
 	//  add-on.
@@ -174,6 +178,13 @@ type EncryptionConfig struct {
 	//  projects/[PROJECT]/locations/[REGION]/keyRings/[RING]/cryptoKeys/[KEY_NAME]
 	// +kcc:proto:field=google.cloud.alloydb.v1beta.EncryptionConfig.kms_key_name
 	KMSKeyNameRef *refs.KMSCryptoKeyRef `json:"kmsKeyNameRef,omitempty"`
+}
+
+// +kcc:proto=google.cloud.alloydb.v1beta.Cluster.DataplexConfig
+type Cluster_DataplexConfig struct {
+	// Optional. The Dataplex Lake resource name to link with this cluster.
+	// +kcc:proto:field=google.cloud.alloydb.v1beta.Cluster.DataplexConfig.lake
+	Lake *string `json:"lake,omitempty"`
 }
 
 // +kcc:proto=google.cloud.alloydb.v1beta.AutomatedBackupPolicy.WeeklySchedule
