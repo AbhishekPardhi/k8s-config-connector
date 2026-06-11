@@ -119,10 +119,6 @@ X-Xss-Protection: 0
   "kind": "compute#network",
   "name": "${networkID}",
   "networkFirewallPolicyEnforcementOrder": "AFTER_CLASSIC_FIREWALL",
-  "routingConfig": {
-    "bgpBestPathSelectionMode": "LEGACY",
-    "routingMode": "REGIONAL"
-  },
   "selfLink": "https://www.googleapis.com/compute/v1/projects/${projectId}/global/networks/${networkID}",
   "selfLinkWithId": "https://www.googleapis.com/compute/v1/projects/${projectId}/global/networks/${networkID}",
   "subnetworks": [
@@ -136,7 +132,6 @@ X-Xss-Protection: 0
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/asia-south2/subnetworks/${networkID}",
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/asia-southeast1/subnetworks/${networkID}",
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/asia-southeast2/subnetworks/${networkID}",
-    "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/asia-southeast3/subnetworks/${networkID}",
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/australia-southeast1/subnetworks/${networkID}",
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/australia-southeast2/subnetworks/${networkID}",
     "https://www.googleapis.com/compute/v1/projects/${projectId}/regions/europe-central2/subnetworks/${networkID}",
@@ -320,16 +315,11 @@ X-Xss-Protection: 0
       ]
     },
     "createTime": "2024-04-01T12:34:56.123456Z",
-    "databaseVersion": "POSTGRES_17",
-    "dataplexConfig": {
-      "enabled": true
-    },
+    "databaseVersion": "POSTGRES_16",
     "encryptionInfo": {
       "encryptionType": "GOOGLE_DEFAULT_ENCRYPTION"
     },
-    "geminiConfig": {
-      "entitled": true
-    },
+    "geminiConfig": {},
     "labels": {
       "cnrm-test": "true",
       "managed-by-cnrm": "true"
@@ -340,7 +330,6 @@ X-Xss-Protection: 0
       "network": "projects/${projectNumber}/global/networks/${networkID}"
     },
     "reconciling": false,
-    "serviceAccountEmail": "c-${projectNumber}-0f45d612@gcp-sa-alloydb.iam.gserviceaccount.com",
     "state": "READY",
     "subscriptionType": "STANDARD",
     "uid": "111111111111111111111",
@@ -411,16 +400,14 @@ X-Xss-Protection: 0
     ]
   },
   "createTime": "2024-04-01T12:34:56.123456Z",
-  "databaseVersion": 5,
+  "databaseVersion": 4,
   "dataplexConfig": {
     "enabled": true
   },
   "encryptionInfo": {
     "encryptionType": 1
   },
-  "geminiConfig": {
-    "entitled": true
-  },
+  "geminiConfig": {},
   "labels": {
     "cnrm-test": "true",
     "managed-by-cnrm": "true"
@@ -431,7 +418,6 @@ X-Xss-Protection: 0
     "network": "projects/${projectNumber}/global/networks/${networkID}"
   },
   "reconciling": false,
-  "serviceAccountEmail": "c-${projectNumber}-0f45d612@gcp-sa-alloydb.iam.gserviceaccount.com",
   "state": 1,
   "subscriptionType": 1,
   "uid": "111111111111111111111",
@@ -475,7 +461,7 @@ X-Goog-Request-Params: cluster.name=projects%2F${projectId}%2Flocations%2Fsoutha
     "enabled": true,
     "recoveryWindowDays": 14
   },
-  "databaseVersion": 5,
+  "databaseVersion": 4,
   "dataplexConfig": {},
   "geminiConfig": {},
   "initialUser": {
@@ -594,14 +580,11 @@ X-Xss-Protection: 0
       ]
     },
     "createTime": "2024-04-01T12:34:56.123456Z",
-    "databaseVersion": "POSTGRES_17",
-    "dataplexConfig": {},
+    "databaseVersion": "POSTGRES_16",
     "encryptionInfo": {
       "encryptionType": "GOOGLE_DEFAULT_ENCRYPTION"
     },
-    "geminiConfig": {
-      "entitled": true
-    },
+    "geminiConfig": {},
     "labels": {
       "cnrm-test": "true",
       "managed-by-cnrm": "true"
@@ -612,7 +595,6 @@ X-Xss-Protection: 0
       "network": "projects/${projectNumber}/global/networks/${networkID}"
     },
     "reconciling": false,
-    "serviceAccountEmail": "c-${projectNumber}-0f45d612@gcp-sa-alloydb.iam.gserviceaccount.com",
     "state": "READY",
     "subscriptionType": "STANDARD",
     "uid": "111111111111111111111",
@@ -683,14 +665,12 @@ X-Xss-Protection: 0
     ]
   },
   "createTime": "2024-04-01T12:34:56.123456Z",
-  "databaseVersion": 5,
+  "databaseVersion": 4,
   "dataplexConfig": {},
   "encryptionInfo": {
     "encryptionType": 1
   },
-  "geminiConfig": {
-    "entitled": true
-  },
+  "geminiConfig": {},
   "labels": {
     "cnrm-test": "true",
     "managed-by-cnrm": "true"
@@ -701,7 +681,6 @@ X-Xss-Protection: 0
     "network": "projects/${projectNumber}/global/networks/${networkID}"
   },
   "reconciling": false,
-  "serviceAccountEmail": "c-${projectNumber}-0f45d612@gcp-sa-alloydb.iam.gserviceaccount.com",
   "state": 1,
   "subscriptionType": 1,
   "uid": "111111111111111111111",
